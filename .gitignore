@@ -40,8 +40,8 @@ htmlcov/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
-./src/qdrant_storage/
-./src/pdfs/
-./src/logs/
-./src/logs/
-./src/uploads/
+/src/qdrant_storage/
+/src/pdfs/
+/src/logs/
+/src/logs/
+/src/uploads/
